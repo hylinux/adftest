@@ -1,0 +1,9 @@
+{
+	"name": "HongWeiDevADF",
+	"location": "chinaeast2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ff3ac47-cc88-4132-a792-8e81c575488a",
+		"tenantId": "954ddad8-66d7-47a8-8f9f-1316152d9587"
+	}
+}
